@@ -1,13 +1,13 @@
 ## Laravel 5 example ##
 
-For Laravel 5.3 improved version look at [this repository](https://github.com/bestmomo/laravel5-3-example).
+For Laravel 5.3 improved version look at [this repository](https://github.com/benakacha/Laravel_blog).
 
 **Laravel 5 example** is a tutorial application for Laravel 5.2 (in french [there](http://laravel.sillo.org/laravel-5/)).
 
 ### Installation ###
 
-* `git clone https://github.com/bestmomo/laravel5-example.git projectname`
-* `cd projectname`
+* `git clone https://github.com/benakacha/Laravel_blog.git Laravel_blog`
+* `cd Laravel_blog`
 * `composer install`
 * `php artisan key:generate`
 * Create a database and inform *.env*
